@@ -13,6 +13,7 @@
   "dependencies": {
     "antd": "^5.18.3",
     "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "express": "^4.19.2",
     "express-async-handler": "^1.2.0",
