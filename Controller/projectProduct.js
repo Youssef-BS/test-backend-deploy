@@ -1,4 +1,4 @@
-const ProjectProduct = require('../Models/ProjectProduct');
+const ProjectProduct = require('../Models/projectProduct');
 const Project = require('../Models/Project');
 const Product = require('../Models/Products');
 const Gallery = require('../Models/Gallery');
